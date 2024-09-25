@@ -1,0 +1,6 @@
+setup.py
+SMS_SPAM_HAM_CLASSIFIER.egg-info/PKG-INFO
+SMS_SPAM_HAM_CLASSIFIER.egg-info/SOURCES.txt
+SMS_SPAM_HAM_CLASSIFIER.egg-info/dependency_links.txt
+SMS_SPAM_HAM_CLASSIFIER.egg-info/requires.txt
+SMS_SPAM_HAM_CLASSIFIER.egg-info/top_level.txt

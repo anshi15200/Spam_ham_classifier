@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+nltk
+stop-words
+stemmer
+lemmatizer
+matplotlib
+seaborn
+scipy
